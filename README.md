@@ -1,6 +1,7 @@
 #  Power BI Superstore Dashboard
 
-##Welcome to the Power BI Superstore Dashboard — a fully interactive and insightful dashboard that transforms raw sales data into powerful business intelligence. Designed for dynamic exploration, this dashboard provides a complete view of performance across regions, categories, and customer segments.
+## Welcome to the Power BI Superstore Dashboard 
+A fully interactive and insightful dashboard that transforms raw sales data into powerful business intelligence. Designed for dynamic exploration, this dashboard provides a complete view of performance across regions, categories, and customer segments.
 
 ## Key Features
 📌 Sales Overview – Total sales, profit, and quantity sold with intuitive KPIs
