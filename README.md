@@ -20,6 +20,9 @@
 🛑 Loss-Making Categories
 📦 High-Performing Products
 
+## Dahboard
+<a href="https://github.com/D-Aarti/Power-BI-super-store-dashboard/blob/main/Power_bi_dashboard.png" >  View Super store dashboard </a>
+
 
 ## ✅ Conclusion
 The Superstore Power BI Dashboard provides a powerful, data-driven view of retail performance, helping businesses uncover trends, optimize operations, and make informed decisions. By blending interactive visuals with deep analytical insights, this dashboard goes beyond surface-level reporting — offering a clear path toward increased profitability and smarter strategy.
